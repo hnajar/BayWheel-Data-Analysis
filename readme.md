@@ -4,7 +4,8 @@
 
 ## Dataset
 
-> The dataset I have analyzed is from Bay Wheel for the monthe of November 2019. It contains data like duration of the trip, user types, start and end latitude and longitude, and whether the user uses the bike share for the entire trip or not. I will be looking at a few of these variables and share my findings here. 
+> The dataset I have analyzed is from Bay Wheel for the monthe of November 2019. It contains data like duration of the trip, user types, start and end latitude and longitude, and whether the user uses the bike share for the entire trip or not. I will be looking at a few of these variables and share my findings here. Dataset was taken from the following link:
+https://www.lyft.com/bikes/bay-wheels/system-data
 
 
 ## Summary of Findings
